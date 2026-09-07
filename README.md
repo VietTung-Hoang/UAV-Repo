@@ -75,10 +75,6 @@ The test harness checks pre-flight safety behavior, hover, and a 1 m rectangular
 
 Each project is independent and should be run from its own directory.
 
-## Reference Material
+## Acknowledgement
 
-The UAV lab handouts are available at the repository root:
-
-- [UAV Lab 1](uav_lab1.pdf)
-- [UAV Lab 2](uav_lab2.pdf)
-- [UAV Lab 3](uav_lab3.pdf)
+This work was completed as part of the Advanced UAV Sensor Fusion and Control coursework in the M.Sc. Automation programme at Hochschule Darmstadt (h-da). Course-provided files and laboratory infrastructure are acknowledged separately from the implementation code above.
