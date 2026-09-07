@@ -2,10 +2,6 @@
 
 Test your `my_mission.py` **without a drone or Crazyradio dongle**.
 
-Mail: jan.zwiener@h-da.de
-
-![Screenshot](./uavlab02.png)
-
 ## Quick Start
 
 ```bash
